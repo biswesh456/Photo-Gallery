@@ -1,0 +1,314 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+	<title>Naada Yoga by Dr. Kiran Seth</title>
+	<link rel="stylesheet" href="/css/blueimp-gallery.min.css">
+	<!-- Bootstrap CSS CDN -->
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+	<!-- Our Custom CSS -->
+	<link rel="stylesheet" href="/style5.css">
+	<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-120218851-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-120218851-1');
+</script>
+
+</head>
+
+<body>
+	<!-- Modal -->
+	<div id="myModal" class="modal fade" role="dialog">
+	<div class="modal-dialog">
+
+	<!-- Modal content-->
+	<div class="modal-content">
+	  <div class="modal-header">
+		<button type="button" class="close" data-dismiss="modal">&times;</button>
+		<h4 class="modal-title">IIIT-Bangalore Gallery by Zense</h4>
+	  </div>
+	  <div class="modal-body">
+		<p>Members in Zense have developed this Gallery to showcase the various events and activities within Campus by the various clubs, organisations and committees.</p>
+	  </div>
+
+	</div>
+
+	</div>
+	</div>
+
+
+	<div class="wrapper">
+		<!-- Sidebar Holder -->
+		<nav id="sidebar">
+			<div class="sidebar-header">
+				<a href="/"><h3>IIIT-Bangalore Gallery</h3></a>
+			</div>
+
+			<ul class="list-unstyled components">
+				<!-- <p>Dummy Heading</p> -->
+				<li>
+						<a href="#3Submenu" " data-toggle="collapse" aria-expanded="false">TEDxIIITBangalore</a>
+						<ul class="collapse  list-unstyled" id="3Submenu">
+								<li><a href="/e/37/TEDx%20Preparation">TEDx Preparation</a></li>
+								<li><a href="/e/40/TEDx%20">TEDx </a></li>
+								<li><a href="/e/39/TEDx%20Exordium">TEDx Exordium</a></li>
+								<li><a href="/e/41/TEDx%20On%20Stage%20Action">TEDx On Stage Action</a></li>
+						</ul>
+				</li>
+				<li>
+				</li>
+				<li>
+				</li>
+				<li>
+				</li>
+				<li>
+						<a href="#10Submenu" " data-toggle="collapse" aria-expanded="false">Campus photos</a>
+						<ul class="collapse  list-unstyled" id="10Submenu">
+								<li><a href="/e/7/New%20Academic%20Block">New Academic Block</a></li>
+								<li><a href="/e/8/Old%20Academic%20Block">Old Academic Block</a></li>
+								<li><a href="/e/9/Scenery">Scenery</a></li>
+								<li><a href="/e/6/Hostel">Hostel</a></li>
+								<li><a href="/e/16/Mess">Mess</a></li>
+								<li><a href="/e/50/Sports%20and%20Gym%20Infrastructure">Sports and Gym Infrastructure</a></li>
+						</ul>
+				</li>
+				<li>
+						<a href="#11Submenu" " data-toggle="collapse" aria-expanded="false">CAMP (CP Club)</a>
+						<ul class="collapse  list-unstyled" id="11Submenu">
+								<li><a href="/e/10/ACM%20ICPC%202017-18%20World%20Finals">ACM ICPC 2017-18 World Finals</a></li>
+								<li><a href="/e/11/ACM%20ICPC%202017-18%20Regionals">ACM ICPC 2017-18 Regionals</a></li>
+								<li><a href="/e/12/ACM%20ICPC%202016-17%20World%20Finals">ACM ICPC 2016-17 World Finals</a></li>
+								<li><a href="/e/13/CAMP%20Fresher%20Contest%202017">CAMP Fresher Contest 2017</a></li>
+								<li><a href="/e/14/ACM%20ICPC%202016-17%20Regionals">ACM ICPC 2016-17 Regionals</a></li>
+						</ul>
+				</li>
+				<li>
+						<a href="/e/26/Samvaad%20Weekly%20Tech%20Talk%20Series">Samvaad Talks</a>
+				</li>
+				<li>
+						<a href="/e/30/RMIT%202017">RMIT Conference</a>
+				</li>
+				<li>
+						<a href="/e/27/RISE%202018">RISE</a>
+				</li>
+				<li>
+						<a href="/e/29/18th%20Foundation%20Day">Foundation Day</a>
+				</li>
+				<li>
+						<a href="/e/38/Infin8-2018">infin8</a>
+				</li>
+				<li>
+						<a href="#7Submenu" " data-toggle="collapse" aria-expanded="false">Theatre Arts Club</a>
+						<ul class="collapse  list-unstyled" id="7Submenu">
+								<li><a href="/e/25/Freedom%20Writers">Freedom Writers</a></li>
+								<li><a href="/e/18/Mime%20Act">Mime Act</a></li>
+								<li><a href="/e/20/Blackswan">Blackswan</a></li>
+								<li><a href="/e/17/The%20Way%20Out">The Way Out</a></li>
+								<li><a href="/e/19/Street%20Play">Street Play</a></li>
+						</ul>
+				</li>
+				<li>
+						<a href="#18Submenu" " data-toggle="collapse" aria-expanded="false">Enigma</a>
+						<ul class="collapse  list-unstyled" id="18Submenu">
+								<li><a href="/e/21/Projects">Projects</a></li>
+								<li><a href="/e/22/Workshops">Workshops</a></li>
+						</ul>
+				</li>
+				<li>
+				</li>
+				<li>
+						<a href="/e/28/Spandan%202018">Spandan</a>
+				</li>
+				<li>
+						<a href="/e/23/Workshop%20on%20Cosmic%20%20Engineering">Turiya Club</a>
+				</li>
+				<li>
+						<a href="#21Submenu" " data-toggle="collapse" aria-expanded="false">Comic Club</a>
+						<ul class="collapse  list-unstyled" id="21Submenu">
+								<li><a href="/e/35/Graffiti">Graffiti</a></li>
+								<li><a href="/e/36/Comic">Comic</a></li>
+						</ul>
+				</li>
+				<li>
+				</li>
+				<li>
+						<a href="#23Submenu" " data-toggle="collapse" aria-expanded="true">SPIC MACAY</a>
+						<ul class="collapse in list-unstyled" id="23Submenu">
+								<li><a href="/e/31/SPIC%20MACAY%202018">SPIC MACAY 2018</a></li>
+								<li><a href="/e/32/Yamini%202017">Yamini 2017</a></li>
+								<li><a href="/e/48/Piano%20recital%20by%20Bal%C3%A1zs%20F%C3%BClei">Piano recital by Balázs Fülei</a></li>
+								<li><a href="/e/47/Naada%20Yoga%20by%20Dr.%20Kiran%20Seth">Naada Yoga by Dr. Kiran Seth</a></li>
+								<li><a href="/e/49/Carnatic%20Violin%20by%20Prof%20T%20N%20Krishnan">Carnatic Violin by Prof T N Krishnan</a></li>
+								<li><a href="/e/46/Bihu%20dance%20by%20Shri%20Ranjit%20Gogoi%20and%20team">Bihu dance by Shri Ranjit Gogoi and team</a></li>
+						</ul>
+				</li>
+				<li>
+						<a href="#24Submenu" " data-toggle="collapse" aria-expanded="false">Festivals</a>
+						<ul class="collapse  list-unstyled" id="24Submenu">
+								<li><a href="/e/33/Holi%202018">Holi 2018</a></li>
+								<li><a href="/e/34/Ganesh%20Chaturthi%202017">Ganesh Chaturthi 2017</a></li>
+						</ul>
+				</li>
+				<li>
+						<a href="#25Submenu" " data-toggle="collapse" aria-expanded="false">Innovation Studio</a>
+						<ul class="collapse  list-unstyled" id="25Submenu">
+								<li><a href="/e/42/Tech%20Talks%20-%20External%20Speakers">Tech Talks - External Speakers</a></li>
+								<li><a href="/e/43/Talks%20by%20our%20Professors">Talks by our Professors</a></li>
+								<li><a href="/e/44/Hands-On%20sessions">Hands-On sessions</a></li>
+						</ul>
+				</li>
+				<li>
+						<a href="#2Submenu" " data-toggle="collapse" aria-expanded="false">Zense (Developer Club)</a>
+						<ul class="collapse  list-unstyled" id="2Submenu">
+								<li><a href="/e/15/Zense%20Farewell%20(Founder)">Zense Farewell (Founder)</a></li>
+								<li><a href="/e/4/Hacknight">Hacknight</a></li>
+								<li><a href="/e/45/Projects">Projects</a></li>
+						</ul>
+				</li>
+				<li>
+				</li>
+
+				<!-- <li class="active">
+					<a href="#homeSubmenu" data-toggle="collapse" aria-expanded="false">Home</a>
+					<ul class="collapse list-unstyled" id="homeSubmenu">
+						<li><a href="#">Home 1</a></li>
+						<li><a href="#">Home 2</a></li>
+						<li><a href="#">Home 3</a></li>
+					</ul>
+				</li>
+				<li>
+					<a href="#">About</a>
+					<a href="#pageSubmenu" data-toggle="collapse" aria-expanded="false">Pages</a>
+					<ul class="collapse list-unstyled" id="pageSubmenu">
+						<li><a href="#">Page 1</a></li>
+						<li><a href="#">Page 2</a></li>
+						<li><a href="#">Page 3</a></li>
+					</ul>
+				</li>
+				<li>
+					<a href="#">Portfolio</a>
+				</li>
+				<li>
+					<a href="#">Contact</a>
+				</li> -->
+			</ul>
+
+			<!-- <ul class="list-unstyled CTAs">
+				<li><a href="https://bootstrapious.com/tutorial/files/sidebar.zip" class="download">Download source</a></li>
+				<li><a href="https://bootstrapious.com/p/bootstrap-sidebar" class="article">Back to article</a></li>
+			</ul> -->
+		</nav>
+
+		<!-- Page Content Holder -->
+		<div id="content" class = "container">
+
+			<nav class="navbar navbar-default">
+				<div class="container-fluid">
+
+					<div class="navbar-header">
+                            <button type="button" id="sidebarCollapse" class="navbar-btn">
+                                <span></span>
+                                <span></span>
+                                <span></span>
+                            </button>
+                        </div>
+
+					<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+						<ul class="nav navbar-nav navbar-right">
+							<li><a href="#" data-toggle="modal" data-target="#myModal">About</a></li>
+						</ul>
+					</div>
+				</div>
+			</nav>
+
+
+			
+<h1>SPIC MACAY</h1>
+<p></p>
+<h2>Naada Yoga by Dr. Kiran Seth</h2>
+<p>On 23rd November 2016, SPIC MACAY IIIT Bangalore chapter hosted a session on Naad Yoga by Dr. Kiran Seth (founder, SPIC MACAY) and Vid. Vani Sateesh (Carnatic vocalist). Naada yoga is meditation through the usage of sound. It revolves around focusing one’s breath and controlling it while practicing the seven swaras, sa re ga ma pa dha ni sa which are visualized as being placed at different levels in the front of one’s body from the throat to below the navel to generate sound/notes in different octaves. It is often practiced by students of classical music. Hindustani artists often refer to it as riyaaz. It is not just practicing music but doing so with this awareness. As one focuses on one spot/chakra while generating the sound of a note, one experiences vibrations that help cleansing and freeing up one’s mind of garbage. It helps one to focus better, feel refreshed and light. Dr. Seth explained how regular practice of Naada Yoga can increase one’s concentration and help them do their daily activities, be it studies or work, more effectively. It was a learning and memorable experiences for all the participants.</p>
+<br />
+
+	<div id="links" class="galleryView" >
+	</div>
+
+
+			<!-- <h1>Infin8</h1>
+			<h2>Badminton</h2> -->
+			<!-- <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure
+				dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p> -->
+
+
+				<!-- <div id="links">
+				    <a href="img/img1.JPG" title="">
+				        <img src="img/img1.JPG" alt="Banana">
+				    </a>
+				    <a href="img/img2.JPG" title="Banana">
+				        <img src="img/img2.JPG" alt="Banana">
+				    </a>
+				    <a href="img/img3.JPG" title="Banana">
+				        <img src="img/img3.JPG" alt="Banana">
+				    </a>
+				    <a href="img/img4.JPG" title="Banana">
+				        <img src="img/img4.JPG" alt="Banana">
+				    </a>
+				    <a href="img/img5.JPG" title="Banana">
+				        <img src="img/img5.JPG" alt="Banana">
+				     </a>
+				</div> -->
+
+
+
+			<div class="line"></div>
+		</div>
+	</div>
+
+
+
+
+
+	<!-- jQuery CDN -->
+	<script src="https://code.jquery.com/jquery-1.12.0.min.js"></script>
+	<!-- Bootstrap Js CDN -->
+	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+
+	 <script type="text/javascript">
+             $(document).ready(function () {
+                 $('#sidebarCollapse').on('click', function () {
+                     $('#sidebar').toggleClass('active');
+                     $(this).toggleClass('active');
+                 });
+             });
+         </script>
+	<script src="/js/blueimp-gallery.min.js"></script>
+		<script>
+	document.getElementById('links').onclick = function (event) {
+	    event = event || window.event;
+	    var target = event.target || event.srcElement,
+	        link = target.src ? target.parentNode : target,
+	        options = {index: link, event: event},
+	        links = this.getElementsByTagName('a');
+	    blueimp.Gallery(links, options);
+	};
+	</script>
+	<div id="blueimp-gallery" class="blueimp-gallery blueimp-gallery-controls">
+		<div class="slides"></div>
+		<h3 class="title"></h3>
+		<a class="prev">‹</a>
+		<a class="next">›</a>
+		<a class="close">×</a>
+		<a class="play-pause"></a>
+		<ol class="indicator"></ol>
+	</div>
+
+</body>
+
+</html>
